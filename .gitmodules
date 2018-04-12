@@ -7,3 +7,9 @@
 [submodule "bundle/vimtex"]
 	path = bundle/vimtex
 	url = https://github.com/lervag/vimtex.git
+[submodule "bundle/vim-spell-pt-br"]
+	path = bundle/vim-spell-pt-br
+	url = https://github.com/mateusbraga/vim-spell-pt-br.git
+[submodule "bundle/ale"]
+	path = bundle/ale
+	url = https://github.com/w0rp/ale.git
